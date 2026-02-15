@@ -1,4 +1,4 @@
-# Edge Detection with CannyNet
+# OneShotEdge: Edge Detection with CannyNet
 This project aims to enhance edge detection performance by extending the CannyNet approach and training on a custom dataset created from a single image.
 
 ## Prerequisites
@@ -85,4 +85,5 @@ The evaluation script will provide metrics such as F1 score, precision, and reca
 [1] Wittmann, J., & Herl, G. (2023). Canny-Net: Known Operator Learning for Edge Detection. 12th Conference on Industrial Computed Tomography (iCT) 2023, 27 February - 2 March 2023 in Furth, Germany. e-Journal of Nondestructive Testing Vol. 28(3). https://doi.org/10.58286/27751 
 
 [2] https://discuss.pytorch.org/t/trying-to-train-parameters-of-the-canny-edge-detection-algorithm/154517 
+
 
